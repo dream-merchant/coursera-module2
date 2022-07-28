@@ -1,23 +1,22 @@
-/* 
 * {
 	box-sizing: border-box;
 }
 
 h1 {
-	margin-bottom:  15px;
+	margin-bottom: 15px;
 }
 
 */
 
 p {
-	border: 10px solid black;
+	border: 5px solid #000000;
 	background-color: #999999;
 	width: 90%;
 	height: 150px;
 	margin-right: auto;
 	margin-left: auto;
 	font-family: Times New Roman;
-	color: white;
+	color: #000000;
 }
 
 /* Responsive Framework. */
