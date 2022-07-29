@@ -10,7 +10,7 @@
 				font-size: 175%;
 			}
 
-			div#section {
+			div.section {
 				border: 1px solid #000000;
 				background-color: #999999;
 				height: 185px;
